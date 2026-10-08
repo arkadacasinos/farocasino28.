@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://farocasino28.vercel.app/sitemap.xml
