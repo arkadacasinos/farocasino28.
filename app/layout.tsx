@@ -16,6 +16,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className={manrope.variable}>
       <head>
+        <meta name="yandex-verification" content="6680ed477d2743ae" />
         <title>Faro Casino — официальный сайт Фаро Казино: играть онлайн, рабочее зеркало</title>
         <meta
           name="description"
